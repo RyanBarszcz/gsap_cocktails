@@ -39,7 +39,7 @@ const Hero = () => {
                 trigger: '#hero',
                 start: "top top",
                 end: "bottom top",
-                srub: true,
+                scrub: true,
             }
         })
             .to('.right-leaf', {y: 200}, 0)
